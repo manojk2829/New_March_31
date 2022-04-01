@@ -5,8 +5,13 @@ public class TestClass2 {
 		System.out.println("Chandra Bhai.... Text Added");
 	}
 	
+	public static void test2() {
+		System.out.println("Chandra Bhai.... Text Added");
+	}
+	
 	public static void main(String[] args) {
 		test1();
+		test2();
 	}
 
 }
